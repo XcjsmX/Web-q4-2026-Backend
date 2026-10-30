@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWSaN5X4Z80=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\carlo\\RiderProjects\\ProyectoG3Backend\\ProyectoG3Backend\\ProyectoG3Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
